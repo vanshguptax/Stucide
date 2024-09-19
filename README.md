@@ -34,3 +34,13 @@ Navigate through the different sections of the website for resources, volunteer 
 Click the "Need Help" button if you or someone you know is in need of support.
 Visit the "Volunteer" page if you'd like to help by offering your time.
 
+<img width="1456" alt="1" src="https://github.com/user-attachments/assets/c3ad79c1-7452-455d-b3e8-7753f560b7df">
+<img width="1459" alt="2" src="https://github.com/user-attachments/assets/741e43c9-f984-4b6c-b6ea-358280db6136">
+<img width="1443" alt="3" src="https://github.com/user-attachments/assets/f8576b86-1948-45ba-8cb9-241f22157edf">
+<img width="1330" alt="4" src="https://github.com/user-attachments/assets/19b90a70-2c58-4c3f-a735-2ec1441a8c4c">
+<img width="1407" alt="5" src="https://github.com/user-attachments/assets/e40eb0c5-27da-4c0f-9edb-f34a823f3251">
+
+
+
+
+
